@@ -6,14 +6,13 @@ title: Dr Sarah Reeve
 superuser: true
 
 # Role/position/tagline
-role: Clinical Psychologist and Researcher
+role: Researcher and Trainee Clinical Psychologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of East Anglia
-  url: https://www.uea.ac.uk/about/norwich-medical-school/education/professional-doctorates/doctorate-in-clinical-psychology
-- name: CAMEO Early Intervention (Cambridge) 
-  url: https://www.cpft.nhs.uk/service-detail/service/cameo-early-intervention-23/
+- name: University College London
+  url: https://www.ucl.ac.uk/clinical-psychology-doctorate/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include sleep and mental health
@@ -29,7 +28,7 @@ education:
   courses:
   - course: DClinPsy - Doctorate in Clinical Psychology
     institution: University College London
-    year: 2021
+    year: 2021 
   - course: DPhil - 'Rethinking the role of sleep dysfunction in psychosis'
     institution: University of Oxford
     year: 2017
@@ -66,7 +65,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-I currently split my time between working as a research lecturer on the UEA clinical psychology doctorate (ClinPsyD) course, and working clinically in early intervention in psychosis. 
 
 <a href="https://scholar.google.com/citations?hl=en&user=WQPrHpcAAAAJ" target="_blank"> Click here for my publication list </a>
