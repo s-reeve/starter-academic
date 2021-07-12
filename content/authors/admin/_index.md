@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: DClinPsy - Doctorate in Clinical Psychology
+  - course: (current) DClinPsy - Doctorate in Clinical Psychology
     institution: University College London
     year: 2021 
   - course: DPhil - 'Rethinking the role of sleep dysfunction in psychosis'
