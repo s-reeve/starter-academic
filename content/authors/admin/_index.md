@@ -6,16 +6,18 @@ title: Dr Sarah Reeve
 superuser: true
 
 # Role/position/tagline
-role: Researcher and Trainee Clinical Psychologist
+role: Clinical Psychologist and Research Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University College London
+- name: University of East Anglia
   url: https://www.ucl.ac.uk/clinical-psychology-doctorate/
+- name: CAMEO Early Intervention Service
+  url: https://www.cpft.nhs.uk/service-detail/service/cameo-early-intervention-23/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include sleep and mental health
+#bio: My research interests include sleep and mental health
 
 # Interests to show in About widget
 interests:
@@ -26,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: (current) DClinPsy - Doctorate in Clinical Psychology
+  - course: DClinPsy - Doctorate in Clinical Psychology
     institution: University College London
     year: 2021 
   - course: DPhil - 'Rethinking the role of sleep dysfunction in psychosis'
@@ -47,10 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DrSReeve
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=WQPrHpcAAAAJ
-
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -65,5 +66,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I split my time between working as a research lecturer on the UEA clinical psychology doctorate course and working clinically in the CAMEO early intervention in psychosis service. 
+
+My research interests include the impact of sleep problems and the mechanisms linking sleep with mental health (particularly with symptoms such as paranoia and hallucinations).
 
 <a href="https://scholar.google.com/citations?hl=en&user=WQPrHpcAAAAJ" target="_blank"> Click here for my publication list </a>
